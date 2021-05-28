@@ -6,7 +6,7 @@
 </head>
 <body>
 	
-	 <div style="background-color:#c9c9c9;padding:15px;"
+	 <div style="background-color:#c9c9c9;padding:15px;">
       <button type="button" name="homeButton" onclick="location.href='../homepage.html';">Home Page</button>
       <button type="button" name="mainButton" onclick="location.href='xssmainpage.html';">Main Page</button>
     </div>
