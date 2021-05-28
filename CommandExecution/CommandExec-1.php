@@ -1,6 +1,6 @@
 <html>
   <head>
-    <link rel="shortcut icon" href="../Resources/rt.png" /
+    <link rel="shortcut icon" href="../Resources/rt.png" />
     <title>CommandExec-1</title>
   </head>
   <body>
