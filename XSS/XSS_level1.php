@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title>XSS 1</title>
+   <title>XSS 1</title
 <link rel="shortcut icon" href="../Resources/hmbct.png" />
 </head>
 <body>
