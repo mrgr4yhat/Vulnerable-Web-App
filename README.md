@@ -1,5 +1,5 @@
 # Vulnerable-Web-App
-The main goal of VWA is to provide a hands-on experience for security rookies vulnerable web applications available for practicing and learning, so that they can attack realistic web environments… without going to jail :)
+The main goal of VWA is to provide a hands-on experience for security rookies on vulnerable web applications available for practicing and learning, so that they can attack realistic web environments… without going to jail :)
 
 ![WhatsApp Image 2021-04-14 at 9 15 04 PM](https://user-images.githubusercontent.com/60269061/116817139-9e9b2d00-ab82-11eb-9a21-9496cae6a08e.jpeg)
 
